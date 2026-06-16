@@ -147,8 +147,9 @@ backend/__pycache__/
 [![NewsDoc 시연 영상](https://img.youtube.com/vi/2ctEWg0H7ic/0.jpg)](https://www.youtube.com/watch?v=2ctEWg0H7ic)
 - **발표 자료**
   - 중간 발표 PPT -
-    [뉴스닥(NewsDoc)_—_AI_기반_개인_자산_관리_시스템.pptx](https://github.com/user-attachments/files/28984654/NewsDoc._._AI_._._._._.pptx)
+[뉴스닥(NewsDoc)_—_AI_기반_개인_자산_관리_시스템.pptx](https://github.com/user-attachments/files/28992716/NewsDoc._._AI_._._._._.pptx)
   - 최종 발표 PPT -
-    [매크로팀_NewsDoc_지능형_자산_배분_의사결정_지원_시스템.pptx](https://github.com/user-attachments/files/28984607/_NewsDoc_._._._._._.pptx)
+[매크로팀_NewsDoc_지능형_자산_배분_의사결정_지원_시스템.pptx](https://github.com/user-attachments/files/28992723/_NewsDoc_._._._._._.pptx)
+
 
 
